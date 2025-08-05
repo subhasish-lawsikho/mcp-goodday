@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "goodday": {
+      "command": "node",
+      "args": ["dist/index.js"],
+      "cwd": "D:\\work\\goodday-mcp",
+      "env": {
+        "GOODDAY_API_KEY": "your_api_key_here",
+        "GOODDAY_API_URL": "https://api.goodday.work/2.0"
+      }
+    }
+  }
+} 
