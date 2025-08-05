@@ -2,6 +2,9 @@
 
 A Model Context Protocol (MCP) server for integrating with the GoodDay project management API. This server provides tools to list projects, users, create and update tasks in GoodDay through a standardized MCP interface.
 
+## Requirements
+Node version : 18+
+
 ## Features
 
 - **Project Management**: List all projects and get project details
